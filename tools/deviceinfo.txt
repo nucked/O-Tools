@@ -1,0 +1,10 @@
+Device: $DID
+OEM: $OEM
+Name: $CODENAME
+SOC: $SOC
+Serial: $SERIAL
+Android: $androidv
+Build: $ROM
+Kernel: Linux $DEVICE_KERNEL
+Status: $STATUS
+Location: $USBADB
