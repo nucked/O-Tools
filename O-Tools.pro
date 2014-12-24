@@ -21,3 +21,6 @@ FORMS    += otools.ui
 
 RESOURCES += \
     res.qrc
+
+OTHER_FILES += \
+    openrecovery.sh

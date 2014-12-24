@@ -46,6 +46,36 @@ private slots:
 
     void on_PushB_clicked();
 
+    void on_PullB_clicked();
+
+    void on_CamB_clicked();
+
+    void on_pushButton_3_clicked();
+
+    void on_UnlockB_clicked();
+
+    void on_LockB_clicked();
+
+    void on_FBootB_clicked();
+
+    void on_FlashBootB_clicked();
+
+    void on_RecoveryB_clicked();
+
+    void on_FBFlashB_clicked();
+
+    void on_RootB_clicked();
+
+    void on_LogoB_clicked();
+
+    void on_EfsB_clicked();
+
+    void on_SRECB_clicked();
+
+    void on_ShellB_clicked();
+
+    void on_ApkB_clicked();
+
 private:
     Ui::OTools *ui;
 };
